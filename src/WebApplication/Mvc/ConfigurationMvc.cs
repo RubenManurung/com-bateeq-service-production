@@ -11,7 +11,7 @@ using System;
 using System.Globalization;
 using FluentValidation;
 
-namespace Infrastructure.Mvc  
+namespace Infrastructure.Mvc    
 {
     public class ConfigurationMvc : IAddMvcAction
     {
